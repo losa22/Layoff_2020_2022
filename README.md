@@ -57,11 +57,10 @@ Most of the people in our data sample lost their jobs in United States (however,
 
 ## US DATA 
 
-There are  1501 Companies in the dataset and 992 are from us , equal to 65.5% of the whole data. It is therefore a deeper analysis were carried on such Country.
+* There are  1501 Companies in the dataset and 992 are from us , equal to 65.5% of the whole data. It is therefore a deeper analysis were carried on such Country.
 
-Results:
 
-In US the LOCATIONS most affected result to be:
+* In US the LOCATIONS most affected result to be:
 1. SF Bay Area
 2. New York city
 3.  Seattle
