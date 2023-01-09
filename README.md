@@ -1,6 +1,8 @@
 # Layoff_2020_2022
 Global Layoff from 2020 to 2022 -  EDA analysis
 
+Original dataset can be tracked at https://layoffs.fyi/
+
 # PROJECT PURPOSE
 
 The analysis wants to __explore globally the companies registering the highest layoff__, which country was most affected and if there was a pattern on the redundancy process over the years 2020-2022.
