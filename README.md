@@ -64,31 +64,28 @@ The second brief analysis and correlated chars can be found inside the file __â€
 
   * 1. SF Bay Area
   * 2. New York city
-  
   * 3.  Seattle
-  
   * 4. Boston
-  
   * 5. Los Angeles
 
 * __In US  the INDUSTRIES most affected result to be:__
 
-  *1. Consumer
+  * 1. Consumer
   
-  *2. Retail
+  * 2. Retail
   
-  *3 Infrastructure
+  * 3 Infrastructure
   
-  *4. Transportation
+  * 4. Transportation
   
-  *5. Real Estate
+  * 5. Real Estate
     
 * __The sector less at risk were:__
 
-  *1. Aerospace
-  *2. HR
-  *3. Legal
-  *4. Data
+  * 1. Aerospace
+  * 2. HR
+  * 3. Legal
+  * 4. Data
 
 * __Companies in IPO financial stage were the most at risk.__
 
