@@ -22,7 +22,7 @@ The second brief analysis and correlated chars can be found inside the file __â€
 
 
 
-## LAYOFF TREND OVER TIME
+#### LAYOFF TREND OVER TIME
 
 * It wad found a significant spike in layoff at the beginning of 2020, corresponding with the first lockdown announcement. 
 * The situation stabilised after May 2020. 
