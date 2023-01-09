@@ -63,14 +63,13 @@ The second brief analysis and correlated chars can be found inside the file __â€
 * __In US the LOCATIONS most affected result to be:__
 
   * 1. SF Bay Area
+  * 2. New York city
   
-  *2. New York city
+  * 3.  Seattle
   
-  *3.  Seattle
+  * 4. Boston
   
-  *4. Boston
-  
-  *5. Los Angeles
+  * 5. Los Angeles
 
 * __In US  the INDUSTRIES most affected result to be:__
 
