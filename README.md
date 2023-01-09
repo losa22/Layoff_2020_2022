@@ -24,61 +24,59 @@ The second brief analysis and correlated chars can be found inside the file __�
 
 ## LAYOFF TREND OVER TIME
 
-We found that in this dataset the data related to the time frame 2021 are missing. Overall, we distinguish a significant spike in layoff at the beginning of 2020, corresponding with the first lockdown announcement. The situation stabilised after May 2020.  Probably it took an uphill turn during the year 2021 but unfortunately, we have no record of it.
-
-During 2022 we didn’t assist to similar figures, but another layoff trend took off during the 2022 summer and before the Christmas festivity, headlighting the theory that the Inflation and an economic crisis is starting
+* It wad found a significant spike in layoff at the beginning of 2020, corresponding with the first lockdown announcement. 
+* The situation stabilised after May 2020. 
+* During 2022 we didn’t assist to similar figures, but another layoff trend took off during the 2022 summer and before the Christmas festivity.
 
 
 ## WORLD DATA
 
-Most of the companies have moderate loss of workforce: under 50 people
-Most of the companies lost 20% of the workforce
-On average, a company would expect to lose less than 0.3 workforce (<30%)  
+* __Most of the companies have moderate loss of workforce: under 50 people.__
+* __Most of the companies lost 20% of the workforce.__
+* __On average, a company would expect to lose less than 0.3 workforce (<30%)  __
 
-Amazon, Meta and Cisco registered the highest layoff.
-Layoff Classification by Company:
-Meta – Amazon – Uber – Booking – Cisco -Peloton – Better.com – Carvana – Teitter - Bytedance
+* __Amazon, Meta and Cisco registered the highest layoff.__
 
-There is not a direct strong correlation between Financial Stage and Percentage-loss of a company, however, we don't have many samples of big companies.
+* __There is not a direct strong correlation between Financial Stage and Percentage-loss of a company.__
 
-Companies with the highest financial funds survived.
+* __Companies with the highest financial funds survived.__
 
-For some companies at the beginning of the financial stage bankrupt (loosing 100% workforce
+* __For some companies at the beginning of the financial stage bankrupt (loosing 100% workforce.__
 
-Series H and Series J were confirmed to be the Financial Stages with the highest cash available.
-Companies with stage:   IPO.      Serie J.     Serie H,  were the most affected from layoff.
+* __Series H and Series J were confirmed to be the Financial Stages with the highest cash available.__
+* __Companies with stage:   IPO.      Serie J.     Serie H,  were the most affected from layoff.__
 
 
-Finance and Retail were  the most affected industries
-Followed by Healthcare, Food and Transportation
+* __Finance and Retail were  the most affected industries__
+* __Followed by Healthcare, Food and Transportation__
 
-Most of the people in our data sample lost their jobs in United States (however, we know that we had far more data related to such Location) and India, which significantly registered the highest layoff.
+* __Most of the people in our data sample lost their jobs in United States .__
 
 
 ## US DATA 
 
-* There are  1501 Companies in the dataset and 992 are from us , equal to 65.5% of the whole data. It is therefore a deeper analysis were carried on such Country.
+* __There are  1501 Companies in the dataset and 992 are from us , equal to 65.5% of the whole data. It is therefore a deeper analysis were carried on such Country.__
 
 
-* In US the LOCATIONS most affected result to be:
-1. SF Bay Area
-2. New York city
-3.  Seattle
-4. Boston
-5. Los Angeles
+* __In US the LOCATIONS most affected result to be:__
+  * 1. SF Bay Area
+  *2. New York city
+  *3.  Seattle
+  *4. Boston
+  *5. Los Angeles
 
-In US  the INDUSTRIES most affected result to be:
-1. Consumer
-2. Retail
-3 Infrastructure
-4. Transportation
-5. Real Estate
+* __In US  the INDUSTRIES most affected result to be:__
+  *1. Consumer
+  *2. Retail
+  *3 Infrastructure
+  *4. Transportation
+  *5. Real Estate
     
-The sector less at risk were:
-1. Aerospace
-2. HR
-3. Legal
-4. Data
+* __The sector less at risk were:__
+  *1. Aerospace
+  *2. HR
+  *3. Legal
+****4. Data
 
-Companies in IPO financial stage were the most at risk.
+* __Companies in IPO financial stage were the most at risk.__
 
