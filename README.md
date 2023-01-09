@@ -63,17 +63,25 @@ The second brief analysis and correlated chars can be found inside the file __â€
 * __In US the LOCATIONS most affected result to be:__
 
   * 1. SF Bay Area
+  
   *2. New York city
+  
   *3.  Seattle
+  
   *4. Boston
+  
   *5. Los Angeles
 
 * __In US  the INDUSTRIES most affected result to be:__
 
   *1. Consumer
+  
   *2. Retail
+  
   *3 Infrastructure
+  
   *4. Transportation
+  
   *5. Real Estate
     
 * __The sector less at risk were:__
