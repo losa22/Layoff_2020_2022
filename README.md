@@ -20,7 +20,7 @@ The second brief analysis and correlated chars can be found inside the file __â€
 
 1501  Companies,  992 of those are  from us = 65.5% of the df.
 
-
+# FINDINGS
 
 #### LAYOFF TREND OVER TIME
 
@@ -29,7 +29,7 @@ The second brief analysis and correlated chars can be found inside the file __â€
 * During 2022 we didnâ€™t assist to similar figures, but another layoff trend took off during the 2022 summer and before the Christmas festivity.
 
 
-## WORLD DATA
+#### WORLD DATA
 
 * __Most of the companies have moderate loss of workforce: under 50 people.__
 * __Most of the companies lost 20% of the workforce.__
@@ -53,7 +53,7 @@ The second brief analysis and correlated chars can be found inside the file __â€
 * __Most of the people in our data sample lost their jobs in United States .__
 
 
-## US DATA 
+#### US DATA 
 
 * __There are  1501 Companies in the dataset and 992 are from us , equal to 65.5% of the whole data. It is therefore a deeper analysis were carried on such Country.__
 
